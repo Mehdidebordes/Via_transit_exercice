@@ -14,12 +14,16 @@ function Pos_Timer_stop(StopTime, Pos_tram) {
 }
 
 function Line_checker(stop) {
+    // eslint-disable-next-line
     if (stop.line.id == 1)
     return (StopT1);
+    // eslint-disable-next-line
     if (stop.line.id == 2)
     return (StopT2);
+    // eslint-disable-next-line
     if (stop.line.id == 3)
     return (StopT3);
+    // eslint-disable-next-line
     if (stop.line.id == 4)
     return (StopT4);
 }
