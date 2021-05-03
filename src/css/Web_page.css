@@ -1,0 +1,115 @@
+.Logo_viatransit {
+  pointer-events: none;
+  width: 14%;
+  height: 0%;
+  position: relative;
+  left: 3%;
+  top: -20vh;
+}
+
+.Tram_header {
+  font-family: "CustomFont";
+  src: url("./font/eina.otf");
+  display: flex;
+  flex-direction: row;
+  padding-top: 20px;
+  padding-left: 25px;
+}
+
+.Tram_header > img {
+  font-family: "CustomFont";
+  src: url("./font/eina.otf");
+  width: 50px; height: 30px;
+  padding-top: 2px;
+}
+
+.Stop_1 {
+  font-family: "CustomFont";
+  src: url("./font/eina.otf");
+  font-weight: 900;
+  margin-top: 20px;
+  margin-left: 3vw;
+}
+
+.Stop_2 {
+  font-family: "CustomFont";
+  src: url("./font/eina.otf");
+  font-weight: 900;
+  margin-top: 20px;
+  margin-left: 18vw;
+}
+
+.Stop_3 {
+  font-weight: 900;
+  font-family: "CustomFont";
+  src: url("./font/eina.otf");
+  margin-top: 20px;
+  margin-left: 18vw;
+}
+
+.Tram_departure {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 25px;
+}
+
+.Tram_header > div {
+  font-size: 175%;
+  font-weight: 600;
+  font-family: "CustomFont";
+  src: url("./font/eina.otf");
+  padding-left: 13px;
+  padding-top: 3px;
+}
+
+.info_zone{
+  width: 50%;
+  position: relative;
+  border: 5px solid;
+  border-radius: 30px;
+  top: 1vh;
+  left: 25%;
+}
+
+.Title {
+  position: relative;
+  font-family: "CustomFont";
+  src: url("./font/eina.otf");
+  font-weight: bold;
+  font-size: 300%;
+  padding-top: 100px;
+  padding-left: 700px;
+  top: -6vh;
+}
+
+.Stop {
+  font-family: "CustomFont";
+  src: url("./font/eina.otf");
+  top: 25px;
+  width: 80%;
+  font-size: 250%;
+  font-weight: 850;
+  padding-left: 30px;
+  color: black;
+}
+
+.blindfold_tram > div {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.blindfold_tram > div > img {
+  height: 30px;
+  margin: 0 5px;
+}
+
+.blindfold_tram {
+  padding:  0 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: row;
+}

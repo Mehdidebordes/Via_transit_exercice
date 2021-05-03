@@ -1,0 +1,441 @@
+[
+	{
+		"line": {
+			"id": "3",
+			"networkKey": "tam",
+			"lineColor": "#cbd300"
+		},
+		"headsign": "Juvignac",
+		"schedules": [
+			{
+				"tripId": "2165795",
+				"networkKey": "tam",
+				"lineId": "3",
+				"stopId": "1262",
+				"destinationId": "1249",
+				"directionId": 0,
+				"headsign": "Juvignac",
+				"departure": 48,
+				"theorical": false
+			},
+			{
+				"tripId": "2165794",
+				"networkKey": "tam",
+				"lineId": "3",
+				"stopId": "1262",
+				"destinationId": "1249",
+				"directionId": 0,
+				"headsign": "Juvignac",
+				"departure": 208,
+				"theorical": false
+			}
+		]
+	},
+	{
+		"line": {
+			"id": "2",
+			"networkKey": "tam",
+			"lineColor": "#ee7f01"
+		},
+		"headsign": "Sabines",
+		"schedules": [
+			{
+				"tripId": "tam-2-2-1245-1-S5472$RT-GENERATED-TRIP",
+				"networkKey": "tam",
+				"lineId": "2",
+				"stopId": "1147",
+				"destinationId": "1245",
+				"directionId": 1,
+				"headsign": "Sabines",
+				"departure": 208,
+				"theorical": false
+			},
+			{
+				"tripId": "2165940",
+				"networkKey": "tam",
+				"lineId": "2",
+				"stopId": "1147",
+				"destinationId": "1245",
+				"directionId": 1,
+				"headsign": "Sabines",
+				"departure": 500,
+				"theorical": false
+			},
+			{
+				"tripId": "2165939",
+				"networkKey": "tam",
+				"lineId": "2",
+				"stopId": "1147",
+				"destinationId": "1245",
+				"directionId": 1,
+				"headsign": "Sabines",
+				"departure": 1000,
+				"theorical": true
+			}
+		]
+	},
+	{
+		"line": {
+			"id": "1",
+			"networkKey": "tam",
+			"lineColor": "#0055a0"
+		},
+		"headsign": "Odysseum",
+		"schedules": [
+			{
+				"tripId": "2166566",
+				"networkKey": "tam",
+				"lineId": "1",
+				"stopId": "1147",
+				"destinationId": "1157",
+				"directionId": 0,
+				"headsign": "Odysseum",
+				"departure": 18,
+				"theorical": false
+			},
+			{
+				"tripId": "2166567",
+				"networkKey": "tam",
+				"lineId": "1",
+				"stopId": "1147",
+				"destinationId": "1157",
+				"directionId": 0,
+				"headsign": "Odysseum",
+				"departure": 140,
+				"theorical": false
+			},
+			{
+				"tripId": "2166568",
+				"networkKey": "tam",
+				"lineId": "1",
+				"stopId": "1147",
+				"destinationId": "1157",
+				"directionId": 0,
+				"headsign": "Odysseum",
+				"departure": 450,
+				"theorical": false
+			}
+		]
+	},
+	{
+		"line": {
+			"id": "2",
+			"networkKey": "tam",
+			"lineColor": "#ee7f01"
+		},
+		"headsign": "Notre-Dame de Sablassou",
+		"schedules": [
+			{
+				"tripId": "2166088",
+				"networkKey": "tam",
+				"lineId": "2",
+				"stopId": "1170",
+				"destinationId": "1215",
+				"directionId": 0,
+				"headsign": "Notre-Dame de Sablassou",
+				"departure": 61,
+				"theorical": false
+			},
+			{
+				"tripId": "2166089",
+				"networkKey": "tam",
+				"lineId": "2",
+				"stopId": "1170",
+				"destinationId": "1215",
+				"directionId": 0,
+				"headsign": "Notre-Dame de Sablassou",
+				"departure": 289,
+				"theorical": false
+			}
+		]
+	},
+	{
+		"line": {
+			"id": "4",
+			"networkKey": "tam",
+			"lineColor": "#582d22"
+		},
+		"headsign": "Garcia Lorca - Sens A",
+		"schedules": [
+			{
+				"tripId": "2166176",
+				"networkKey": "tam",
+				"lineId": "4",
+				"stopId": "1262",
+				"destinationId": "1434",
+				"directionId": 0,
+				"headsign": "Garcia Lorca - Sens A",
+				"departure": 208,
+				"theorical": false
+			},
+			{
+				"tripId": "2166195",
+				"networkKey": "tam",
+				"lineId": "4",
+				"stopId": "1262",
+				"destinationId": "1434",
+				"directionId": 0,
+				"headsign": "Garcia Lorca - Sens A",
+				"departure": 608,
+				"theorical": false
+			},
+			{
+				"tripId": "2166177",
+				"networkKey": "tam",
+				"lineId": "4",
+				"stopId": "1262",
+				"destinationId": "1434",
+				"directionId": 0,
+				"headsign": "Garcia Lorca - Sens A",
+				"departure": 980,
+				"theorical": false
+			}
+		]
+	},
+	{
+		"line": {
+			"id": "3",
+			"networkKey": "tam",
+			"lineColor": "#cbd300"
+		},
+		"headsign": "Pérols Étang de l'Or",
+		"schedules": [
+			{
+				"tripId": "2165681",
+				"networkKey": "tam",
+				"lineId": "3",
+				"stopId": "1285",
+				"destinationId": "1274",
+				"directionId": 1,
+				"headsign": "Pérols Étang de l'Or",
+				"departure": 11,
+				"theorical": false
+			},
+			{
+				"tripId": "2165682",
+				"networkKey": "tam",
+				"lineId": "3",
+				"stopId": "1285",
+				"destinationId": "1274",
+				"directionId": 1,
+				"headsign": "Pérols Étang de l'Or",
+				"departure": 421,
+				"theorical": false
+			}
+		]
+	},
+	{
+		"line": {
+			"id": "1",
+			"networkKey": "tam",
+			"lineColor": "#0055a0"
+		},
+		"headsign": "Mosson",
+		"schedules": [
+			{
+				"tripId": "2166606",
+				"networkKey": "tam",
+				"lineId": "1",
+				"stopId": "1170",
+				"destinationId": "1130",
+				"directionId": 1,
+				"headsign": "Mosson",
+				"departure": 59,
+				"theorical": false
+			},
+			{
+				"tripId": "2166611",
+				"networkKey": "tam",
+				"lineId": "1",
+				"stopId": "1170",
+				"destinationId": "1130",
+				"directionId": 1,
+				"headsign": "Mosson",
+				"departure": 208,
+				"theorical": false
+			},
+			{
+				"tripId": "2166736",
+				"networkKey": "tam",
+				"lineId": "1",
+				"stopId": "1170",
+				"destinationId": "1130",
+				"directionId": 1,
+				"headsign": "Mosson",
+				"departure": 416,
+				"theorical": true
+			}
+		]
+	},
+	{
+		"line": {
+			"id": "2",
+			"networkKey": "tam",
+			"lineColor": "#ee7f01"
+		},
+		"headsign": "Saint-Jean de Védas Centre",
+		"schedules": [
+			{
+				"tripId": "2165944",
+				"networkKey": "tam",
+				"lineId": "2",
+				"stopId": "1147",
+				"destinationId": "1189",
+				"directionId": 1,
+				"headsign": "Saint-Jean de Védas Centre",
+				"departure": 300,
+				"theorical": false
+			},
+			{
+				"tripId": "2165943",
+				"networkKey": "tam",
+				"lineId": "2",
+				"stopId": "1147",
+				"destinationId": "1189",
+				"directionId": 1,
+				"headsign": "Saint-Jean de Védas Centre",
+				"departure": 808,
+				"theorical": true
+			}
+		]
+	},
+	{
+		"line": {
+			"id": "3",
+			"networkKey": "tam",
+			"lineColor": "#cbd300"
+		},
+		"headsign": "Mosson",
+		"schedules": [
+			{
+				"tripId": "2165807",
+				"networkKey": "tam",
+				"lineId": "3",
+				"stopId": "1262",
+				"destinationId": "1297",
+				"directionId": 0,
+				"headsign": "Mosson",
+				"departure": 8,
+				"theorical": false
+			},
+			{
+				"tripId": "2165806",
+				"networkKey": "tam",
+				"lineId": "3",
+				"stopId": "1262",
+				"destinationId": "1297",
+				"directionId": 0,
+				"headsign": "Mosson",
+				"departure": 543,
+				"theorical": true
+			}
+		]
+	},
+	{
+		"line": {
+			"id": "2",
+			"networkKey": "tam",
+			"lineColor": "#ee7f01"
+		},
+		"headsign": "Jacou",
+		"schedules": [
+			{
+				"tripId": "2165941",
+				"networkKey": "tam",
+				"lineId": "2",
+				"stopId": "1170",
+				"destinationId": "1219",
+				"directionId": 0,
+				"headsign": "Jacou",
+				"departure": 68,
+				"theorical": false
+			},
+			{
+				"tripId": "2165936",
+				"networkKey": "tam",
+				"lineId": "2",
+				"stopId": "1170",
+				"destinationId": "1219",
+				"directionId": 0,
+				"headsign": "Jacou",
+				"departure": 208,
+				"theorical": true
+			}
+		]
+	},
+	{
+		"line": {
+			"id": "3",
+			"networkKey": "tam",
+			"lineColor": "#cbd300"
+		},
+		"headsign": "Lattes Centre",
+		"schedules": [
+			{
+				"tripId": "2165662",
+				"networkKey": "tam",
+				"lineId": "3",
+				"stopId": "1285",
+				"destinationId": "1298",
+				"directionId": 1,
+				"headsign": "Lattes Centre",
+				"departure": 34,
+				"theorical": false
+			},
+			{
+				"tripId": "2165663",
+				"networkKey": "tam",
+				"lineId": "3",
+				"stopId": "1285",
+				"destinationId": "1298",
+				"directionId": 1,
+				"headsign": "Lattes Centre",
+				"departure": 890,
+				"theorical": true
+			}
+		]
+	},
+	{
+		"line": {
+			"id": "4",
+			"networkKey": "tam",
+			"lineColor": "#582d22"
+		},
+		"headsign": "Garcia Lorca - Sens B",
+		"schedules": [
+			{
+				"tripId": "2166312",
+				"networkKey": "tam",
+				"lineId": "4",
+				"stopId": "1285",
+				"destinationId": "1439",
+				"directionId": 1,
+				"headsign": "Garcia Lorca - Sens B",
+				"departure": 300,
+				"theorical": false
+			},
+			{
+				"tripId": "2166297",
+				"networkKey": "tam",
+				"lineId": "4",
+				"stopId": "1285",
+				"destinationId": "1439",
+				"directionId": 1,
+				"headsign": "Garcia Lorca - Sens B",
+				"departure": 805,
+				"theorical": false
+			},
+			{
+				"tripId": "2166261",
+				"networkKey": "tam",
+				"lineId": "4",
+				"stopId": "1285",
+				"destinationId": "1439",
+				"directionId": 1,
+				"headsign": "Garcia Lorca - Sens B",
+				"departure": 1004,
+				"theorical": true
+			}
+		]
+	}
+]
